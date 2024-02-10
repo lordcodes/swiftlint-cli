@@ -1,5 +1,7 @@
 # swiftlint-cli
 
+Note: This repository is now archived and will no longer be maintained. I use [Mise](https://github.com/jdx/mise) to manage tools like SwiftLint now instead.
+
 A script you can include in your projects that allows all team members to run the same version of [SwiftLint](https://github.com/realm/SwiftLint), without needing a package manager or building SwiftLint from source.
 
 ## Install
